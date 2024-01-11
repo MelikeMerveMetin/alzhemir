@@ -1,0 +1,33 @@
+.log{
+    margin-top: 15%;
+    min-height: 250px;
+    background-color: #fefefe;
+    border-radius: 10px;
+    border: 1px solid #b7b7b7;
+}
+.ana {
+    min-height: 500px;
+    background-color: #cccccc;
+    border-radius: 30px;
+    border: 1px solid #b7b7b7;
+}
+
+.giris a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    float: right;
+}
+
+.giris a:hover {
+   font-size: 20px;
+   color: red;
+}
+
+.loga {
+    margin-top: 5%;
+    min-height: 250px;
+    background-color: #fefefe;
+    border-radius: 10px;
+    border: 1px solid #b7b7b7;
+}
